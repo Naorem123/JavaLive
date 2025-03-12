@@ -1,5 +1,5 @@
 package returnType;
-
+//return Type
 public class Return {
     public int add(int x,int y){
         int z=x+y;
