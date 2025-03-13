@@ -7,7 +7,7 @@ public static void main(String[] args) {
     
  }
  else{
-    System.out.println("Is minor4");
+    System.out.println("It's minor");
  }
 }
 }
